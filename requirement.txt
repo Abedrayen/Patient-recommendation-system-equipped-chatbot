@@ -1,0 +1,6 @@
+langchain_community 
+transformers 
+geopy 
+pandas 
+numpy
+tensorflow
